@@ -2,7 +2,7 @@ version 0.1.14.110
 ☞ Backup and restore settings, key bindings and ftp accounts
 ☞ Fixed file showing unsaved even file has no changes
 ☞ Exit full screen mode using notification
-☞ Bugs fixes
+☞ Bugs fixes - Yes
 
 version 0.1.13.108
 ☞ Added Bangla language
